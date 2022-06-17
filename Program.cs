@@ -20,7 +20,6 @@ namespace Chocolates
                     wrapes++;
                 }
             }
-            Console.WriteLine("Оберток осталось:{0}",wrapes);
             return chocolates;
         }
         static void Main(string[] args)
