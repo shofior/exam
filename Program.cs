@@ -13,7 +13,7 @@ namespace Chocolates
                 dollars--;
                 chocolates++;
                 wrapes++;
-                if (wrapes % 3 == 0) 
+                if (wrapes == 3) 
                 { 
                     wrapes = 0;
                     chocolates++;
